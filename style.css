@@ -112,7 +112,7 @@ input[type=number] {
     opacity: 0.5;
 }
 .budget-header .account .outcome .outcome-total{
-    color: rgb(236, 61, 184);
+    color: red;
     font-family: 'Gilroy Bold';
 }
 
